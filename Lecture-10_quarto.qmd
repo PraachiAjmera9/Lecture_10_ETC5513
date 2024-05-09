@@ -6,6 +6,6 @@ editor: visual
 
 ```{r}
 library(tidyverse)
-
+library(dplyr)
 ```
 
